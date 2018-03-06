@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{5EF860D3-FBAE-4FA9-861B-6E57241D596B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="multinet_customer_portal/assets/admin/layout3/css/custom.css">
+    <Files>
+      <File FileName="multinet_customer_portal/Default.aspx" Line="90" Column="174" />
+      <File FileName="multinet_customer_portal/Master.master" Line="35" Column="1" />
+      <File FileName="multinet_customer_portal/Master.master.cs" Line="1" Column="1" />
+      <File FileName="multinet_customer_portal/templates/admin3/1_sign_in.html" Line="146" Column="8" />
+      <File FileName="multinet_customer_portal/Global.asax" Line="1" Column="1" />
+      <File FileName="multinet_customer_portal/Web.config" Line="16" Column="17" />
+      <File FileName="multinet_customer_portal/billing.aspx" Line="32" Column="1" />
+      <File FileName="multinet_customer_portal/profile.aspx" Line="269" Column="8" />
+      <File FileName="multinet_customer_portal/create_new_complain.aspx" Line="195" Column="110" />
+      <File FileName="multinet_customer_portal/support_all_complain_details.aspx" Line="441" Column="8" />
+      <File FileName="multinet_customer_portal/support_all_complains.aspx" Line="313" Column="23" />
+      <File FileName="multinet_customer_portal/support_complain_status.aspx" Line="317" Column="23" />
+      <File FileName="multinet_customer_portal/circuit_down.aspx" Line="245" Column="19" />
+      <File FileName="multinet_customer_portal/billing_all_statements_outstanding.aspx" Line="33" Column="1" />
+      <File FileName="multinet_customer_portal/home.aspx" Line="202" Column="74" />
+      <File FileName="multinet_customer_portal/get_new_connection.aspx" Line="107" Column="1" />
+      <File FileName="multinet_customer_portal/lead_status.aspx" Line="109" Column="7" />
+      <File FileName="multinet_customer_portal/circuit.aspx" Line="244" Column="19" />
+      <File FileName="multinet_customer_portal/circuit_inner.aspx" Line="288" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/7_billing-mini-pkr.html" Line="377" Column="8" />
+      <File FileName="multinet_customer_portal/billing_mini_pkr.aspx" Line="375" Column="4" />
+      <File FileName="multinet_customer_portal/billing_mini_usd.aspx" Line="377" Column="5" />
+      <File FileName="multinet_customer_portal/billing_all_statements_inner.aspx" Line="376" Column="3" />
+      <File FileName="multinet_customer_portal/billing_mini_statement.aspx" Line="698" Column="4" />
+      <File FileName="multinet_customer_portal/templates/admin3/10_billing.html" Line="381" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/11_profile.html" Line="268" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/12_create-new-complain.html" Line="335" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/13_support-all-complain-details.html" Line="440" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/14_support-all-complains.html" Line="474" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/15_support-complain-status.html" Line="624" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/16_circuit-down.html" Line="31" Column="18" />
+      <File FileName="multinet_customer_portal/templates/admin3/6_circuit-inner.html" Line="287" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/17_billing-all-statements-outstanding.html" Line="376" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/9_billing-all-statements-inner.html" Line="378" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/billing-mini-statement.html" Line="773" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/8_billing-mini-usd.html" Line="376" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/5_circuit.html" Line="416" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/3_get_new_connection.html" Line="334" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/2_home.html" Line="458" Column="8" />
+      <File FileName="multinet_customer_portal/templates/admin3/4_lead_status.html" Line="580" Column="8" />
+      <File FileName="multinet_customer_portal/assets/global/css/create-new-complain.css" Line="199" Column="18" />
+      <File FileName="multinet_customer_portal/Default.aspx.cs" Line="10" Column="8" />
+      <File FileName="multinet_customer_portal/assets/global/css/support-all-complain-details.css" Line="770" Column="22" />
+      <File FileName="multinet_customer_portal/master_page.master" Line="15" Column="1" />
+      <File FileName="multinet_customer_portal/master_page.master.cs" Line="1" Column="1" />
+      <File FileName="multinet_customer_portal/master_page.aspx" Line="26" Column="58" />
+      <File FileName="multinet_customer_portal/assets/global/css/billing.css" Line="72" Column="19" />
+      <File FileName="multinet_customer_portal/assets/admin/layout3/css/custom.css" Line="28" Column="14" />
+      <File FileName="multinet_customer_portal/assets/admin/layout3/css/layout.css" Line="1889" Column="3" />
+      <File FileName="multinet_customer_portal/assets/global/css/get-new-connection.css" Line="7" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.multinet__customer__portal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
